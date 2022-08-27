@@ -1,3 +1,5 @@
+# Decentralized Token Faucet with Motoko and ReactJs (ICP Blockchain)
+
 # Check your Balance
 
 1. Find out your principal id:
